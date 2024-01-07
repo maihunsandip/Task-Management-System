@@ -16,3 +16,10 @@ This is an Task Management Application built using:
 - `mvnw spring-boot:run`
 - make sure meven is configured in System Environment Variable 
 - open http://localhost:8080 and TODO it!
+
+### If you still facing any problems then follow these steps
+- Unzip the spring-boot-3-todo-application.zip
+- Select spring-boot-3-todo-application folder and open it with any code editor (Eclipse IDE is preferred)
+- In the [src/main/java/com/example/SpringBoot3TodoApplication] package
+- Select SpringBoot3TodoApplication.java and run it as an application
+- Now open http://localhost:8080
